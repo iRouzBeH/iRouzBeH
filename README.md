@@ -2,36 +2,28 @@
 
 # iRouzBeH
 
-**Android Developer** · Kotlin · Jetpack Compose · Networking
+Android · Linux · Networking & VPN
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![C](https://img.shields.io/badge/C%20%2F%20JNI-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VPN](https://img.shields.io/badge/Networking%20%26%20VPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
 
 </div>
 
----
-
-## About
-
-I build Android apps in Kotlin with a focus on networking and privacy. My first open-source project, HybridNest, is a multi-protocol VPN client with native C components.
-
-## Featured Project
-
-### [HybridNest](https://github.com/iRouzBeH/HybridNest)
-
-A multi-protocol Android VPN client that unifies Cisco AnyConnect, WireGuard, and Xray-core in a single app.
+## Projects
 
 [![HybridNest](banner.png)](https://github.com/iRouzBeH/HybridNest)
 
-## Tech Stack
+**OvpnHunter** · in early development
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+## Also know
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## Contact
 
-[Email](mailto:your-email@example.com) · [LinkedIn](https://linkedin.com/in/your-profile)
+[![Telegram](https://img.shields.io/badge/Telegram-MyRouzHub-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MyRouzHub)
