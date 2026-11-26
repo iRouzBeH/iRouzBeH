@@ -24,18 +24,12 @@ I build Android apps in Kotlin with a focus on networking and privacy. My first 
 
 A multi-protocol Android VPN client that unifies Cisco AnyConnect, WireGuard, and Xray-core in a single app.
 
-| Feature | Details |
-| --- | --- |
-| Protocols | AnyConnect (OpenConnect), WireGuard, Xray-core (VLESS, VMess, Trojan, Reality) |
-| Networking | Per-app split tunneling, hotspot and LAN sharing, no root required |
-| Privacy | No analytics or telemetry, automatic log redaction |
-| Stack | Kotlin, Jetpack Compose, C / JNI |
+[![HybridNest](banner.png)](https://github.com/iRouzBeH/HybridNest)
 
 ## Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ## Contact
