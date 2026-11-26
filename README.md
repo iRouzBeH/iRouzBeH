@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**iRouzBeH/iRouzBeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# iRouzBeH
 
-Here are some ideas to get you started:
+**Android Developer** · Kotlin · Jetpack Compose · Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![C](https://img.shields.io/badge/C%20%2F%20JNI-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
+</div>
+
+---
+
+## About
+
+I build Android apps in Kotlin with a focus on networking and privacy. My first open-source project, HybridNest, is a multi-protocol VPN client with native C components.
+
+## Featured Project
+
+### [HybridNest](https://github.com/iRouzBeH/HybridNest)
+
+A multi-protocol Android VPN client that unifies Cisco AnyConnect, WireGuard, and Xray-core in a single app.
+
+| Feature | Details |
+| --- | --- |
+| Protocols | AnyConnect (OpenConnect), WireGuard, Xray-core (VLESS, VMess, Trojan, Reality) |
+| Networking | Per-app split tunneling, hotspot and LAN sharing, no root required |
+| Privacy | No analytics or telemetry, automatic log redaction |
+| Stack | Kotlin, Jetpack Compose, C / JNI |
+
+## Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+## Contact
+
+[Email](mailto:your-email@example.com) · [LinkedIn](https://linkedin.com/in/your-profile)
